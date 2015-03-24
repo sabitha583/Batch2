@@ -1,0 +1,16 @@
+body {
+
+}
+
+.box{
+	width:900px;
+	height:200px;
+	border:1px solid #000;	
+}
+.box_h{
+	width:200px;
+	
+	height:500px;
+	border:1px solid #000;	
+}
+

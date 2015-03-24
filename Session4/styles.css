@@ -1,0 +1,36 @@
+body {
+	/* Element Selector */
+	/* border: 1px solid red;*/
+	
+}
+
+.header3{
+	color:#0000FF;
+}
+#idselector{
+	color:red;
+}
+
+/*  CSS Precedense */
+h3.header3{
+	color:black;
+}
+
+/*  Css nesting */
+div  h3.title p{
+	color:red;
+}
+/*  Css Grouping */
+
+
+.leftnav{
+	width:200px;
+	padding:20px;
+	border:1px solid #cacaca;
+}
+.leftnav ul{
+	list-style: none;
+	padding:0px;
+	margin:0px;
+	
+}
